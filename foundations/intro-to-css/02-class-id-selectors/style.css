@@ -1,0 +1,19 @@
+.uneven {
+    background-color: lightcoral;
+}
+
+#number-two {
+ color: blue;
+    font-size: 30px;
+    font-family: serif;
+}
+
+.number-three {
+font-size: larger;
+font-weight: 400;
+}
+
+#number-four {
+background-color: lightgreen;
+font-weight: bolder;
+}
